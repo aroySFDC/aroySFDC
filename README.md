@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Arijit Roy
-- 👀 I’m interested in CPQ and Sales
-- 🌱 I’m currently learning NodeJS and Angular
+- 👀 I’m interested in RLM and Sales
 - 💞️ I’m looking to collaborate on any CPQ related ideas.
 - 📫 How to reach me Slack or email (a.roy@salesforce.com)
 
