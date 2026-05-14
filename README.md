@@ -13,9 +13,10 @@ Generative AI: Implementing cutting-edge LLM solutions.
 📞 Get In Touch
 Let's connect to discuss how AI and modern cloud architecture can transform your business!
 
+
 Email: arijit.roy@hotmail.co.in
 LinkedIn: https://www.linkedin.com/in/royarijit
-Location: Canada
+Location: Canada 🇨🇦
 
 <!---
 aroySFDC/aroySFDC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
