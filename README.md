@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Arijit Roy
-- 👀 I’m interested in RLM and Sales
-- 💞️ I’m looking to collaborate on any CPQ related ideas.
+- 👋 Hi, I’m Arijit Roy and I am based out of Canada
+- 👀 I’m a technology enthusiast working in the Agentforce revenue cloud space, bringing in over 18 years of consulting experience
+- 💞️ AI enthusiast, avid user of claude code and also experimenting with AI agentic workflows using python, Langchain and langraph frameworks
 - 📫 How to reach me Slack or email (a.roy@salesforce.com)
 
 <!---
