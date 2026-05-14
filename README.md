@@ -1,6 +1,6 @@
 I bring over 18 years of consulting experience with a specialized focus on the Agentforce revenue cloud space. My background has allowed me to navigate complex business requirements and translate them into robust, enterprise-level technological solutions.
 
-🧠 AI & Development Focus
+🧠 *AI & Development Focus*
 I am deeply immersed in the world of Artificial Intelligence. I actively work on experimenting with AI agentic workflows, gaining practical experience through:
 
 Python: Core programming for backend logic and AI integration.
