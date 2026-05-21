@@ -26,3 +26,5 @@ You can click the Preview link to take a look at your changes.
 Favourite Quote -  
 The future belongs to organizations that can harness artificial intelligence not as a replacement for human intelligence, but as an amplification of it.
 
+An agent's architecture must integrate key cognitive functions - Perception, Reasoning, Planning, Action and Learning - into a modular stateful framework that supports both reactivity and deliberation.
+
