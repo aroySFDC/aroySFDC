@@ -22,3 +22,7 @@ Location: Canada 🇨🇦
 aroySFDC/aroySFDC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Favourite Quote -  
+The future belongs to organizations that can harness artificial intelligence not as a replacement for human intelligence, but as an amplification of it.
+
