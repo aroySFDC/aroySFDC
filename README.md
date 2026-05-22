@@ -29,6 +29,7 @@ The future belongs to organizations that can harness artificial intelligence not
 An agent's architecture must integrate key cognitive functions - Perception, Reasoning, Planning, Action and Learning - into a modular stateful framework that supports both reactivity and deliberation.
 
 **My Favourite Description of Agentic AI Architecture**
+
 At the heart of this design is a continuous cognitive loop, a continuous cycle of perception, reasoning, planning, action and learning, which enables agents to operate autonomously in a dynamic environment.
 This forms the backbone of intelligent agent behaviour, providing scaffolding by which decisions are made, actions are executed and knowledge is accumulated over time.
 
